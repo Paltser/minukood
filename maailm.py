@@ -1,1 +1,1 @@
-print("tere maailm")
+print("head aega maailm")
